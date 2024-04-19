@@ -6,7 +6,7 @@ function filterArray(numbers, value) {
             newArray.push(numbers[i]);
         }
     }
-    
+
     return newArray;
 }
 
